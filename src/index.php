@@ -1,4 +1,3 @@
-test
 <style>
     div.warning{color:red;background:orange}
     div.alert{color:white;background:red}
